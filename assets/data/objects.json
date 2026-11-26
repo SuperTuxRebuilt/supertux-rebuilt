@@ -1,0 +1,9 @@
+{
+    "objects": [
+        {
+            "id": "goal",
+            "name": "Goal (Snow)",
+            "image": "assets/images/objects/goal/portal-snow.png"
+        }
+    ]
+}

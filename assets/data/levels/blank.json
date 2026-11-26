@@ -1,0 +1,13 @@
+{
+  "pieces": [],
+  "objects": [],
+  "gradientBottom": "0xFFFFFF",
+  "width": 4096,
+  "gradientTop": "0x8080FF",
+  "height": 600,
+  "music": "",
+  "player": {
+    "x": 100,
+    "y": 250
+  }
+}

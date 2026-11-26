@@ -1,0 +1,12 @@
+{
+    "tracks": [
+        {
+            "name": "No Music",
+            "asset": ""
+        },
+        {
+            "name": "Chipdisko",
+            "asset": "assets/music/chipdisko.ogg"
+        }
+    ]
+}

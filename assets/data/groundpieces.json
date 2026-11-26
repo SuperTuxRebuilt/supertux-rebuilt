@@ -1,0 +1,250 @@
+{
+    "groundpieces": [
+        {
+            "id": "block",
+            "name": "Block",
+            "image": "assets/images/groundpieces/block/block.png",
+            "type": "ground"
+        },
+        {
+            "id": "block-small",
+            "name": "Small Block",
+            "image": "assets/images/groundpieces/block/block-small.png",
+            "type": "ground"
+        },
+        {
+            "id": "block-smaller",
+            "name": "Smaller Block",
+            "image": "assets/images/groundpieces/block/block-smaller.png",
+            "type": "ground"
+        },
+        {
+            "id": "plate",
+            "name": "Plate",
+            "image": "assets/images/groundpieces/block/plate.png",
+            "type": "ground"
+        },
+        {
+            "id": "wood-h",
+            "name": "Horizontal Wood",
+            "image": "assets/images/groundpieces/block/wood_horizontal.png",
+            "type": "ground"
+        },
+        {
+            "id": "wood-h-large",
+            "name": "Large Horizontal Wood",
+            "image": "assets/images/groundpieces/block/wood_horizontal-large.png",
+            "type": "ground"
+        },
+        {
+            "id": "wood-v",
+            "name": "Vertical Wood",
+            "image": "assets/images/groundpieces/block/wood_vertical.png",
+            "type": "ground"
+        },
+        {
+            "id": "wood-v-large",
+            "name": "Large Vertical Wood",
+            "image": "assets/images/groundpieces/block/wood_vertical-large.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerock",
+            "name": "Ice Rock",
+            "image": "assets/images/groundpieces/snow/rock.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerock-small",
+            "name": "Small Ice Rock",
+            "image": "assets/images/groundpieces/snow/rock-small.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks",
+            "name": "Ice Rocks",
+            "image": "assets/images/groundpieces/snow/rocks.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-cliff",
+            "name": "Ice Rock Cliff",
+            "image": "assets/images/groundpieces/snow/rocks-cliff.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-cliff-flipped",
+            "name": "Ice Rock Flipped Cliff",
+            "image": "assets/images/groundpieces/snow/rocks-cliff-flipped.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-even",
+            "name": "Ice Rocks (Even)",
+            "image": "assets/images/groundpieces/snow/rocks-even.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-floor",
+            "name": "Ice Rock Floor",
+            "image": "assets/images/groundpieces/snow/rocks-floor.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-floor2",
+            "name": "Ice Rock Floor 2",
+            "image": "assets/images/groundpieces/snow/rocks-floor2.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-wall",
+            "name": "Ice Rock Wall",
+            "image": "assets/images/groundpieces/snow/rockwall.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-slope1",
+            "name": "Ice Rock Slope 1",
+            "image": "assets/images/groundpieces/snow/slope1.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-slope2",
+            "name": "Ice Rock Slope 2",
+            "image": "assets/images/groundpieces/snow/slope2.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-slope3",
+            "name": "Ice Rock Slope 3",
+            "image": "assets/images/groundpieces/snow/slope3.png",
+            "type": "ground"
+        },
+        {
+            "id": "icerocks-slope4",
+            "name": "Ice Rock Slope 4",
+            "image": "assets/images/groundpieces/snow/slope4.png",
+            "type": "ground"
+        },
+        {
+            "id": "snow0",
+            "name": "Snow",
+            "image": "assets/images/groundpieces/snow/snow.png",
+            "type": "ground"
+        },
+        {
+            "id": "snow1",
+            "name": "Snow 1",
+            "image": "assets/images/groundpieces/snow/snow1.png",
+            "type": "ground"
+        },
+        {
+            "id": "snow2",
+            "name": "Snow 2",
+            "image": "assets/images/groundpieces/snow/snow2.png",
+            "type": "ground"
+        },
+        {
+            "id": "snow3",
+            "name": "Snow 3",
+            "image": "assets/images/groundpieces/snow/snow3.png",
+            "type": "ground"
+        },
+        {
+            "id": "snow4",
+            "name": "Snow 4",
+            "image": "assets/images/groundpieces/snow/snow4.png",
+            "type": "ground"
+        },
+        {
+            "id": "ice",
+            "name": "Ice",
+            "image": "assets/images/groundpieces/snow/ice.png",
+            "type": "ground"
+        },
+        {
+            "id": "platform1",
+            "name": "Platform 1",
+            "image": "assets/images/groundpieces/snow/platform1.png",
+            "type": "ground"
+        },
+        {
+            "id": "platform2",
+            "name": "Platform 2",
+            "image": "assets/images/groundpieces/snow/platform2.png",
+            "type": "ground"
+        },
+        {
+            "id": "platform3",
+            "name": "Platform 3",
+            "image": "assets/images/groundpieces/snow/platform3.png",
+            "type": "ground"
+        },
+        {
+            "id": "bluepipe",
+            "name": "Blue Pipe",
+            "image": "assets/images/groundpieces/pipe/blue.png",
+            "type": "ground"
+        },
+        {
+            "id": "greenpipe",
+            "name": "Green Pipe",
+            "image": "assets/images/groundpieces/pipe/green.png",
+            "type": "ground"
+        },
+        {
+            "id": "snowrock",
+            "name": "Snow Rock",
+            "image": "assets/images/groundpieces/snow/snowrock.png",
+            "type": "transparent"
+        },
+        {
+            "id": "snowgrass1",
+            "name": "Snow Grass 1",
+            "image": "assets/images/groundpieces/snow/grass-0.png",
+            "type": "transparent"
+        },
+        {
+            "id": "snowgrass2",
+            "name": "Snow Grass 2",
+            "image": "assets/images/groundpieces/snow/grass-1.png",
+            "type": "transparent"
+        },
+        {
+            "id": "snowtree",
+            "name": "Snow Tree",
+            "image": "assets/images/groundpieces/snow/tree.png",
+            "type": "transparent"
+        },
+        {
+            "id": "snowtree-long",
+            "name": "Long Snow Tree",
+            "image": "assets/images/groundpieces/snow/tree-long.png",
+            "type": "transparent"
+        },
+        {
+            "id": "snowtree-longer",
+            "name": "Longer Snow Tree",
+            "image": "assets/images/groundpieces/snow/tree-longer.png",
+            "type": "transparent"
+        },
+        {
+            "id": "nolokstatue",
+            "name": "Nolok Statue",
+            "image": "assets/images/groundpieces/castle/nolok-statue.png",
+            "type": "transparent"
+        },
+        {
+            "id": "nolokstatue-snow",
+            "name": "Icy Nolok Statue",
+            "image": "assets/images/groundpieces/castle/nolok-statue-snow.png",
+            "type": "transparent"
+        },
+        {
+            "id": "metal",
+            "name": "Metal",
+            "image": "assets/images/groundpieces/metal/block.png",
+            "type": "solid"
+        }
+    ]
+}
